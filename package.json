@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-express-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lvbenlong/nodejs-express-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lvbenlong/nodejs-express-project/issues"
+  },
+  "homepage": "https://github.com/Lvbenlong/nodejs-express-project#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "md5-node": "^1.0.1",
+    "mongodb": "^3.2.7",
+    "multiparty": "^4.2.1"
+  }
+}
